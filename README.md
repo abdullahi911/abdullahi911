@@ -1,5 +1,7 @@
+
 ## Hi there 👋
 OFFICIAL GITHUB : ABDULLAHI ABDIKARIN
+
 my names abdullahi softare engineer student at diredawa 
 university ethopia
 
@@ -24,3 +26,8 @@ HTML - Wikipedia
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+encyclopedia
+
+
+HTML - Wikipedia
+
