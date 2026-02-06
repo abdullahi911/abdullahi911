@@ -1,48 +1,73 @@
-# I’m **Abdullahi Abdikarin Abdullahi**
+👋 I’m Abdullahi Abdikarin Abdullahi
+💻 Junior Software Engineer | Frontend Developer (React in Progress)
 
-### 💻 Junior Software Engineer | Frontend Developer in Progress  
+I’m a passionate junior software engineer focused on building modern, responsive, and user-friendly web applications.
+I’ve completed the core frontend technologies and I’m currently deepening my skills with React.
 
-I’m a passionate **junior software engineer** who loves creating simple, beautiful, and functional web pages.  
-Right now, I’m focused on learning the core web technologies and building projects that help me grow as a developer.  
+🧠 Tech Stack
+✅ Completed
+Technology	Description
 
----
+	HTML — semantic and accessible structure
 
-### 🧠 What I’m Learning
-I’m currently exploring the building blocks of the web:
+	CSS — responsive layouts and modern UI
 
-| Technology | Description |
-|-------------|--------------|
-| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | **HTML** — gives structure to web pages |
-| ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | **CSS** — makes everything look beautiful and responsive |
-| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | **JavaScript** — brings websites to life with logic and interactivity |
+	JavaScript — logic, DOM, and interactivity
 
----
+	Tailwind CSS — utility-first modern styling
+🚧 Currently Learning
+Technology	Focus
 
-### 🚀 What I’m Working On
-- Creating simple **web projects** to practice real-world coding  
-- Building responsive designs that work well on phones and computers  
-- Learning how to make user-friendly apps using **HTML, CSS, and JavaScript**  
+	React — components, hooks, and state management
+🚀 What I’m Working On
 
----
+Building React-based projects
 
-### 🎯 My Goals
-- Grow into a skilled **full-stack web and mobile developer**  
-- Build projects that solve real problems  
-- Contribute to open-source and collaborate with other developers around the world  
+Creating clean UI components with Tailwind CSS
 
----
+Improving performance and code organization
 
-### 💬 A Little About Me
-I love learning new things, sharing ideas, and improving every day.  
-I believe that every line of code I write brings me closer to becoming the developer I dream of being.  
+Practicing real-world frontend workflows
 
-> 💡 “The best way to predict the future is to create it — one project at a time.”
+🏆 Certificates & Achievements
 
----
+🎓 Coursera – Introduction to Front-End Development
 
-### 📫 Connect With Me
-If you’d like to collaborate or just talk about coding, feel free to reach out!  
-I’m always open to learning and connecting with other developers.  
+📜 https://coursera.org/share/d96753e194db2b81dfcb8655f5938c45
 
----
+📜 https://coursera.org/share/5e07b2da25884f40290c4698ad6eff69
+
+🧩 Projects & Practice
+
+🔹 To-Do List Project
+👉 https://github.com/abdullahi911/best-2025-projects/tree/main/todolist%20project
+
+🔹 Best 2025 Projects
+👉 https://github.com/abdullahi911/best-2025-projects
+
+🔹 Live Website
+👉 https://horizon-cafecom.vercel.app/
+
+🎯 Goals
+
+Become a full-stack web & mobile developer
+
+Build applications that solve real problems
+
+Contribute to open-source projects
+
+Collaborate with developers worldwide 🌍
+
+💬 About Me
+
+I’m disciplined, curious, and growth-driven.
+Every project I build sharpens my skills and moves me closer to mastery.
+
+💡 “The best way to predict the future is to create it — one project at a time.”
+
+📫 Let’s Connect
+
+I’m open to collaboration, learning, and new opportunities.
+Feel free to reach out and build something awesome together 🚀
+
 ✨ Thanks for visiting my GitHub profile!
