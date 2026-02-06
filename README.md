@@ -6,19 +6,21 @@ I’ve completed the core frontend technologies and I’m currently deepening my
 
 🧠 Tech Stack
 ✅ Completed
-Technology	Description
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /> </p>
 
-	HTML — semantic and accessible structure
+HTML — semantic and accessible structure
 
-	CSS — responsive layouts and modern UI
+CSS — responsive layouts and modern UI
 
-	JavaScript — logic, DOM, and interactivity
+JavaScript — logic, DOM, and interactivity
 
-	Tailwind CSS — utility-first modern styling
+Tailwind CSS — utility-first modern styling
+
 🚧 Currently Learning
-Technology	Focus
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" /> </p>
 
-	React — components, hooks, and state management
+React — components, hooks, and state management
+
 🚀 What I’m Working On
 
 Building React-based projects
