@@ -47,9 +47,9 @@ Practicing real-world frontend workflows
 🔹 Best 2025 Projects
 👉 https://github.com/abdullahi911/best-2025-projects
 
-🔹 Live Website
-👉 https://horizon-cafecom.vercel.app/
-
+🔹 Live Websites
+👉https://tixqaad-cleaning-service.netlify.app/#services
+👉https://practice9-git-main-abdullahi-abdikarins-projects.vercel.app/html/login.html
 🎯 Goals
 
 Become a full-stack web & mobile developer
