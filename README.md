@@ -1,7 +1,7 @@
 👋 I’m Abdullahi Abdikarin Abdullahi  
-💻 Junior Software Engineer | Frontend Developer → Moving into Backend
+💻 Mid-Level Software Engineer | Frontend Developer → Moving into Backend
 
-I’m a passionate junior software engineer focused on building modern, responsive, and user-friendly web applications.  
+I’m a passionate software engineer focused on building modern, responsive, and user-friendly web applications.  
 I’ve completed core frontend technologies including React, and I’m now expanding into backend development with databases.
 
 ---
@@ -43,29 +43,6 @@ Writing clean, scalable, and maintainable code
 
 ---
 
-🏆 Certificates & Achievements  
-
-🎓 Coursera – Introduction to Front-End Development  
-
-📜 https://coursera.org/share/d96753e194db2b81dfcb8655f5938c45  
-📜 https://coursera.org/share/5e07b2da25884f40290c4698ad6eff69  
-
----
-
-🧩 Projects & Practice  
-
-🔹 To-Do List Project  
-👉 https://github.com/abdullahi911/best-2025-projects/tree/main/todolist%20project  
-
-🔹 Best 2025 Projects  
-👉 https://github.com/abdullahi911/best-2025-projects  
-
-🔹 Live Websites  
-👉 https://tixqaad-cleaning-service.netlify.app/#services  
-👉 https://practice9-git-main-abdullahi-abdikarins-projects.vercel.app/html/login.html  
-
----
-
 🎯 Goals  
 
 Become a full-stack web & mobile developer  
@@ -81,12 +58,3 @@ I’m disciplined, curious, and growth-driven.
 Every project I build sharpens my skills and moves me closer to mastery.  
 
 💡 “The best way to predict the future is to create it — one project at a time.”  
-
----
-
-📫 Let’s Connect  
-
-I’m open to collaboration, learning, and new opportunities.  
-Feel free to reach out and build something awesome together 🚀  
-
-✨ Thanks for visiting my GitHub profile!
