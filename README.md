@@ -71,12 +71,6 @@ Contact section
 Clean and simple UI
 Fully responsive layout
 
-Sample Preview:
-
-[ Screenshot Here ]
-→ Services Page
-→ Contact Form
-→ Hero Section
 🚀 What I’m Working On
 Building full-stack applications (React + MySQL)
 Designing efficient and scalable databases
