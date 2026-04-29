@@ -24,6 +24,11 @@ Tailwind CSS — utility-first modern styling
 React — components, hooks, and state management  
 
 ---
+PROJECTS WORKED
+https://school-managment-e-leaning.vercel.app/
+https://horizon-cafecom.vercel.app/
+https://tixqaad-cleaning-service.netlify.app/
+
 
 🚧 Currently Learning  
 <p align="left"> 
