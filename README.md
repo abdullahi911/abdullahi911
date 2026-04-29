@@ -22,55 +22,40 @@ MySQL — Database design, queries & backend data management
 🔗 https://school-managment-e-leaning.vercel.app/
 
 Description:
-A full-featured school platform for managing students, courses, and learning content.
+A full-featured school management and e-learning platform designed to manage students, courses, and educational content efficiently.
 
 Key Features:
 
-Student dashboard
-Course management
-Responsive UI
-Clean component structure (React)
-
-Sample Preview:
-
-[ Screenshot Here ]
-→ Dashboard UI
-→ Course Page
-→ Student Panel
+Student dashboard for tracking activities
+Course management system
+Responsive and user-friendly interface
+Built using reusable React components
 ☕ Horizon Cafe Website
 
 🔗 https://horizon-cafecom.vercel.app/
 
 Description:
-A modern and stylish cafe website with smooth UI and responsive design.
+A modern and visually appealing cafe website that delivers a smooth and engaging user experience.
 
 Key Features:
 
-Attractive landing page
-Menu display
-Mobile-friendly design
-Clean animations
-
-Sample Preview:
-
-[ Screenshot Here ]
-→ Homepage
-→ Menu Section
-→ Mobile View
+Clean and attractive landing page
+Menu showcase section
+Mobile-friendly responsive design
+Smooth navigation and UI
 🧹 Cleaning Service Website
 
 🔗 https://tixqaad-cleaning-service.netlify.app/
 
 Description:
-A professional business website for a cleaning service company.
+A professional business website for a cleaning service company, focused on clear service presentation and usability.
 
 Key Features:
 
-Service listings
-Contact section
-Clean and simple UI
-Fully responsive layout
-
+Well-structured service listings
+Contact section for customer inquiries
+Clean and minimal user interface
+Fully responsive across all devices
 🚀 What I’m Working On
 Building full-stack applications (React + MySQL)
 Designing efficient and scalable databases
